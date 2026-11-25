@@ -4,7 +4,7 @@ metadata:
   labels:
     app: mealie
   name: mealie
-  namespace: antwhistle
+  namespace: mypersonal
 spec:
   replicas: 1
   selector:
